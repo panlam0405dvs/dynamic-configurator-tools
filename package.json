@@ -1,0 +1,26 @@
+{
+  "name": "dyna-config-tools",
+  "version": "1.0.0",
+  "description": "frontEnd tools for dynamic configurator inteface and menu build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panlam0405dvs/dynamic-configurator-tools.git"
+  },
+  "keywords": [
+    "configurator",
+    "frontEnd",
+    "django",
+    "webpack",
+    "javascript"
+  ],
+  "author": "Panagiotis Lamprou, Timotheos Savva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/panlam0405dvs/dynamic-configurator-tools/issues"
+  },
+  "homepage": "https://github.com/panlam0405dvs/dynamic-configurator-tools#readme"
+}
